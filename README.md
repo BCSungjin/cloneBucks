@@ -1,4 +1,4 @@
 # cloneBucks
 starbucks Clonecoding
 
-*run a index.html*
+**run a index.html**
